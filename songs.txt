@@ -192,12 +192,6 @@
       "url": "https://raw.githubusercontent.com/JRMAppStudio/videomakersongs/master/Wish%20You%20Happy%20Birthday.mp3",
       "display_name": "Wish You Happy Birthday.mp3",
 	  "type": "hibolliwood"
-    },
-    {
-      "id": "33",
-      "url": "https://raw.githubusercontent.com/JRMAppStudio/videomakersongs/master/Yaara%20Teri%20Yaari%20Ko%20Instumenta.mp3",
-      "display_name": "Yaara Teri Yaari Ko Instumenta.mp3",
-	  "type": "hibolliwood"
     }	
   ]
 }
